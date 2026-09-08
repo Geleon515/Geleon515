@@ -15,22 +15,25 @@ backend and data-driven systems.
 
 ## Tech Stack
 
-**Backend**  
-Java · Spring Boot · Node.js · Express
+Backend
+[ Java ] [ Spring Boot ] [ Node.js ] [ Express ]
 
-**Frontend**  
-React · TypeScript · JavaScript · HTML · CSS
+Frontend
+[ React ] [ TypeScript ] [ JavaScript ] [ HTML ] [ CSS ]
 
-**Databases & Data**  
-PostgreSQL · PostGIS · MySQL · SQL Server · Oracle SQL
+Databases & Data
+[ PostgreSQL ] [ PostGIS ] [ MySQL ] [ SQL Server ] [ Oracle ]
 
-**Tools & Practices**  
-Git · GitHub · GitHub Actions · Postman · Jira · Confluence · Figma
-
-**Currently Learning**  
-Docker · AWS · Azure · Data Analytics · Business Intelligence · Machine Learning
+Tools
+[ Git ] [ GitHub Actions ] [ Postman ] [ Docker ] [ Figma ]
 
 ---
+
+## Areas of Interest
+
+- **Backend & Architecture:** REST APIs, system design, distributed systems.
+- **Data:** relational databases, analytics and data-driven applications.
+- **Software Quality:** testing, automation and maintainable software.
 
 ## Featured Projects
 
