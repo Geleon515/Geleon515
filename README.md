@@ -54,8 +54,6 @@ captures against registered face embeddings.
 
 **Focus:** Computer Vision · Face Embeddings · Similarity Matching · Dataset Management
 
-Private collaborative project.
-
 ### 🏢 CRM Sales Module
 
 Sales module developed as part of a larger enterprise CRM system.
