@@ -1,7 +1,11 @@
 # Hi, I'm Gerardo 👋
 
-Software Engineering student at UNMSM focused on building web,
-backend and data-driven systems.
+I'm a Software Engineering student at UNMSM. I build full-stack web
+applications, with a focus on backend development, REST APIs, and
+relational databases.
+
+I'm interested in software architecture and testing, and I'm exploring
+machine learning and data analytics.
 
 ## About Me
 
